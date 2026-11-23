@@ -42,7 +42,9 @@ The legal basis for the chat is legitimate interest: running a small site that a
 
 ## Children
 
-This site is not aimed at children. If you are under 16, please ask a parent or guardian before writing anything here.
+دا سایټ د هغو کسانو لپاره نه دی چې عمر یې له ۱۸ کلونو څخه کم دی. دا د عیسیٰ پر ایمان خبرې کوي، او دا مذهبي موضوع دی، نو دا د لویانو لپاره لیکل شوی دی. که ستاسو عمر له ۱۸ کلونو څخه کم دی، مهرباني وکړئ دلته خپل شخصي معلومات مه شریکوئ، او Jonathan ته مه لیکئ.
+
+په هسپانیه کې، قانون وایي چې یو ماشوم چې عمر یې له ۱۴ کلونو څخه کم دی باید آنلاین شخصي معلومات شریکولو دمخه د مور او پلار یا سرپرست موافقه ولري. د دې سایټ خپل قانون له هغه څخه سخت دی: که ستاسو عمر له ۱۸ کلونو څخه کم دی، دا سایټ ستاسو لپاره نه دی.
 
 ## Changes
 
